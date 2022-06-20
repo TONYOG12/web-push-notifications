@@ -20,7 +20,7 @@ const client = (() => {
                 ],
                 data: {
                     notificationTime: Date.now(),
-                    githubUser: "hhimanshu"
+                    githubUser: "tonyog12"
                 }
             }
             reg.showNotification('Second Notification', options)
